@@ -1,0 +1,86 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "0o2lvb9zKnSMeNPI61ysK",
+      "type": "rectangle",
+      "x": 256.0000305175781,
+      "y": 201.33334350585938,
+      "width": 678.6666564941406,
+      "height": 486.6666564941406,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 907856737,
+      "version": 80,
+      "versionNonce": 566996463,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "f1D5FDETUYqcuGhGbx7Nc"
+        }
+      ],
+      "updated": 1759366033323,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "f1D5FDETUYqcuGhGbx7Nc",
+      "type": "text",
+      "x": 503.3134231567383,
+      "y": 432.1666717529297,
+      "width": 184.0398712158203,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1393911969,
+      "version": 39,
+      "versionNonce": 752421120,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1759457198568,
+      "link": null,
+      "locked": false,
+      "text": "redlightruntime.com",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "0o2lvb9zKnSMeNPI61ysK",
+      "originalText": "redlightruntime.com",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
